@@ -1,6 +1,3 @@
 # hello-world 
-it is just for test ;))
-
-
-
-bye there 
+it is just for test
+bye
